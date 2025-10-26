@@ -71,4 +71,4 @@ Integrate Google Maps API for location visualization
 
 👨‍💻 Contributors
 
-Vedant Panchal — Developer & Project Lead
+Ayush Anil — Developer & Project Lead
